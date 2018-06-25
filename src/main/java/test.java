@@ -6,4 +6,5 @@ public class test {
 	private String d;
 	private String m;
 	private String n;
+	private String hh;
 }
