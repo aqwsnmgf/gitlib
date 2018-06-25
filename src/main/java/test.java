@@ -9,7 +9,8 @@ public class test {
 	private String hh;
 	private String dd;
 	private String mm;
-	private String kdkkdk;
+	private String kdkkdk="123123";
 	private String dasdf;
 	private String dddd;
+	
 }
