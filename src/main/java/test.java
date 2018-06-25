@@ -8,4 +8,5 @@ public class test {
 	private String n;
 	private String hh;
 	private String dd;
+	private String mm;
 }
