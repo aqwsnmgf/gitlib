@@ -1,7 +1,7 @@
 
 public class test {
 	private String a="aaaa";
-	private String b;
+	private String b="123";
 	private String c;
 	private String d;
 	private String m;
