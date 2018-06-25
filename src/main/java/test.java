@@ -12,5 +12,4 @@ public class test {
 	private String kdkkdk="123123";
 	private String dasdf;
 	private String dddd;
-	
 }
