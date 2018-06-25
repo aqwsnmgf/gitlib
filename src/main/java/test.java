@@ -10,6 +10,6 @@ public class test {
 	private String dd;
 	private String mm;
 	private String kdkkdk="123123";
-	private String dasdf;
+	private String dasdf="czxczxc";
 	private String dddd;
 }
